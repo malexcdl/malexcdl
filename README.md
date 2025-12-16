@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I am a **Technology enthusiast** with a strong passion for **Artificial Intelligence, Cloud Computing, and continuous learning**. I am an **Electronic Engineer** by profession, currently working as a **Solutions Delivery Architect**, where I design, implement, and deliver scalable, efficient, and high-impact technological solutions.
+I am a **Technology enthusiast** with a strong passion for **Artificial Intelligence, Cloud Computing, and continuous learning**. I am an **Electronic Engineer** by profession, currently working as a **Delivery Solutions Architect**, where I design, implement, and deliver scalable, efficient, and high-impact technological solutions.
 
 I also work as a **Technology Professor**, specializing in **Networking and Data**, combining real-world industry experience with teaching to empower the next generation of tech professionals.
 
