@@ -1,3 +1,6 @@
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 # 👋 Hello! | ¡Hola!
 
 ## 🇺🇸 English Version
