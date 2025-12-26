@@ -131,12 +131,11 @@ Creo firmemente que **el aprendizaje nunca termina**. Siempre estoy explorando n
 ⭐ _Feel free to connect with me!_  
 ⭐ _¡No dudes en ponerte en contacto conmigo!_
 
-\### :zap: Recent Activity / Actividad reciente
+### :zap: Recent Activity / Actividad reciente
 
-<!--START_SECTION:activity-->
+<!--START\_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
+<!--END\_SECTION:activity-->
 
 
 <!--RECENT\_ACTIVITY:start-->
