@@ -133,8 +133,12 @@ Creo firmemente que **el aprendizaje nunca termina**. Siempre estoy explorando n
 
 \### :zap: Recent Activity / Actividad reciente
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+\<!--START\_SECTION:activity-->
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+\<!--END\_SECTION:activity-->
+
+
+
+\<!--RECENT\_ACTIVITY:start-->
+
+\<!--RECENT\_ACTIVITY:last\_update-->
